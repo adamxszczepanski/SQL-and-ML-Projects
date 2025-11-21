@@ -7,7 +7,7 @@ Each subfolder contains a self-contained project where I apply analytical techni
 
 ## 📂 Project Structure
 
-- `InsurancePrediction` – A machine learning classification project predicting insurance outcomes.  
+- `InsurancePrediction` – A machine learning regression project predicting insurance outcomes.  
 - *(Additional folders)* – Each new project will be added here with its own notebook/script and supporting data.
 
 ---
