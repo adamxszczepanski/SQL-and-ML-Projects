@@ -1,32 +1,36 @@
-# SQL-and-ML-Projects
+# SQL and ML Projects
 
-This repository hosts a collection of portfolio projects focusing on SQL, machine learning and data analysis.  
-Each subfolder contains a self-contained project where I apply analytical techniques to real-world style datasets.
+This repository will host a **growing collection of portfolio projects** focused on SQL, machine learning and data analysis.  
+The focus is on **end-to-end analytical workflows** – from raw data and feature engineering to model evaluation and business insights.
 
----
+Currently it includes:
 
-## 📂 Project Structure
-
-- `InsurancePrediction` – A machine learning classification project predicting insurance outcomes.  
-- *(Additional folders)* – Each new project will be added here with its own notebook/script and supporting data.
+- **InsuranceChargesPrediction_ML** – a regression project predicting medical insurance charges based on demographic and lifestyle features (Python, scikit-learn, Pandas). The project demonstrates a clean modeling workflow using pipelines, GridSearchCV and RMSE evaluation, as well as interpretation of key cost drivers (e.g. smoking status, BMI, age).
 
 ---
 
-## 🎯 Purpose
+## Project Overview
 
-The aim of this repository is to build and showcase hands-on experience in:  
-- Writing and optimising SQL queries for analytics  
-- Applying machine-learning algorithms using Python/notebooks  
-- Structuring analysis workflows from raw data to insights  
+| Project                          | Type            | Tools                            | Description                                                                 |
+|----------------------------------|-----------------|----------------------------------|-----------------------------------------------------------------------------|
+| InsuranceChargesPrediction_ML    | ML (regression) | Python, scikit-learn, Pandas     | Predicting medical insurance charges and analysing key drivers of cost.    |
+| Kaggle_SQLProject_GrocerySales*  | SQL analysis    | SQL (e.g. MySQL), SQL client     | Grocery sales analysis: products, customers and time-based sales patterns. |
 
----
-
-## 🚀 Usage
-
-Clone the repository, navigate into a project folder, open the notebook or SQL script, and follow the README inside that folder to run the analysis.
+\* Hosted in a separate repository (see below).
 
 ---
 
-Feel free to comment or suggest improvements!
+## Related Repositories
 
+- [Kaggle_SQLProject_GrocerySales](https://github.com/adamxszczepanski/Kaggle_SQLProject_GrocerySales) – SQL-based analysis of grocery sales data, focusing on product performance, customer value and sales trends over time.
+
+---
+
+## What I focus on here
+
+The focus of this repository is on:
+
+- building **reproducible analytical workflows** (clean structure, clear steps),
+- combining **technical modeling skills** (SQL, ML) with **business-oriented insights**,
+- creating projects that can be easily reviewed and reused by others (well-documented notebooks, readable SQL, concise summaries).
 
