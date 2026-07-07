@@ -70,9 +70,3 @@ I am looking for a larger and messier dataset for the next project, one that
 needs real data cleaning and feature work, possibly from a different domain, to
 push beyond what a small clean dataset can teach.
 
-## Contact
-
-- Email: adamxszczepanski@gmail.com
-- LinkedIn: _add your profile link here_
-
-Feedback and suggestions are always welcome.
